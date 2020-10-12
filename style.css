@@ -1,0 +1,67 @@
+* {
+    
+}
+html {
+    width: 883px;
+    font-family: Roboto;
+    
+}
+body {
+    margin: 0;
+}
+.Torta {
+    width: 883px;
+    height: 374px;
+    object-fit: cover;
+    object-position: center;
+}
+.Titulo {
+    font-weight: 900;
+    font-size: 89px;
+    line-height: 79px;
+    color: #FFB300;   
+}
+.what-is {
+    font-size: 21px;
+    font-weight: 600; /* minha fonte não tem semi-bold pasa de medium para bold (de 500 para 700)*/
+}
+.autor {
+    color: black;
+    font-size: 21px;
+    font-weight: 800;
+    text-align: right;
+}
+.espacio-top {
+    margin-top: 34px;
+}
+.hr {
+    border-top: 2px solid black
+}
+.espacio-bot {
+    margin-bottom: 34px;
+}
+h2 {
+    color: #FFB300;
+    font-size: 34px;
+}
+.lista {
+    font-size: 21px;
+    font-weight: 600; /* minha fonte não tem semi-bold pasa de medium para bold (de 500 para 700)*/
+    margin-bottom: 34px
+}
+
+p {
+    font-size: 21px;
+    font-weight: 600;
+}
+.lista-preparo {
+    font-size: 21px;
+    font-weight: 600; /* minha fonte não tem semi-bold pasa de medium para bold (de 500 para 700)*/
+    margin-bottom: 34px;
+    line-height: 1.61;
+}
+a {
+    color: #0037B3;
+    font-size: 21px;
+    font-weight: 900;
+}
